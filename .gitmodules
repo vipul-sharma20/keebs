@@ -1,0 +1,3 @@
+[submodule "footswitch"]
+	path = footswitch
+	url = https://github.com/rgerganov/footswitch
